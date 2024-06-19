@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 300px;
+  background-color: #7e7d72;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 20px auto; 
+  padding: 20px;
+  text-align: center;
+}
+
+.baslik {
+  padding-top: 25px;
+}
+
+.container {
+  display: block;
+  margin: auto;
+  width: 500px;
+  margin-top: 50px;
+  background-color: orange;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.todo-container {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+button {
+  margin: 0 5px;
+}
